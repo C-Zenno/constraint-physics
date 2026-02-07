@@ -24,8 +24,8 @@ Seven papers form the declarative record. Reading begins with Paper VI
 
 ## Axioms & Foundation Notes
 
-Foundation Notes (FN-0, FN-1, FN-2) establish the axiomatic vocabulary:
-identity, continuation, closure, constraint load.
+Foundation Notes (FN-0, FN-1, FN-2) establish axiomatic vocabulary
+and interpretive boundaries. Reserved entries are catalog placeholders only.
 
 → [Foundation Notes](https://github.com/C-Zenno/constraint-spine/blob/main/docs/index.md#foundation-notes)
 

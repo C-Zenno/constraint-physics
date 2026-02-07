@@ -27,9 +27,9 @@ No methods. No thresholds. No implementation guidance.
 A front door. Navigation, orientation, community framing, and pointers
 to the canonical record in `constraint-spine`.
 
-This repository does not duplicate canon. It does not contain methods,
-schemas, or operational guidance. All citable content lives in
-`constraint-spine` under version tags.
+Canonical standards and versioned doctrine live in `constraint-spine` (cite tags).
+This repo is navigation only. It does not duplicate canon. It does not contain
+methods, schemas, or operational guidance.
 
 ## License
 
