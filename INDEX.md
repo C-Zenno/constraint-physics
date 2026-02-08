@@ -36,6 +36,13 @@ what terms mean, not how to compute or detect anything.
 
 → [Glossary](https://github.com/C-Zenno/constraint-spine/blob/main/docs/glossary.md)
 
+## Claim Rules & Signature Map
+
+CRL-0 speech constraints and the recurring legibility map.
+
+> [Claim Rules (CRL-0)](https://github.com/C-Zenno/constraint-spine/blob/main/docs/CLAIM_RULES.md)
+> [Signature Map](https://github.com/C-Zenno/constraint-spine/blob/main/docs/SIGNATURE_MAP.md)
+
 ## Posture & Licenses
 
 Two license stages govern what may be said at each surface:
