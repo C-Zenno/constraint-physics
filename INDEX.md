@@ -34,20 +34,27 @@ and interpretive boundaries. Reserved entries are catalog placeholders only.
 Controlled vocabulary with IP-status markers. Definitions describe
 what terms mean, not how to compute or detect anything.
 
-→ [Glossary](https://github.com/C-Zenno/constraint-spine/blob/public-spine-v0.6/docs/glossary.md)
+→ [Glossary](https://github.com/C-Zenno/constraint-spine/blob/public-spine-v0.11/docs/glossary.md)
 
 ## Claim Rules & Signature Map
 
 CRL-0 speech constraints and the recurring legibility map.
 
-> [Claim Rules (CRL-0)](https://github.com/C-Zenno/constraint-spine/blob/public-spine-v0.6/docs/CLAIM_RULES.md)
-> [Signature Map](https://github.com/C-Zenno/constraint-spine/blob/public-spine-v0.6/docs/SIGNATURE_MAP.md)
+> [Claim Rules (CRL-0)](https://github.com/C-Zenno/constraint-spine/blob/public-spine-v0.11/docs/CLAIM_RULES.md)
+> [Signature Map](https://github.com/C-Zenno/constraint-spine/blob/public-spine-v0.11/docs/SIGNATURE_MAP.md)
 
 ## Hierarchy
 
 Claim-discipline ordering of primitives and dependent terms. Vocabulary, not derivation.
 
-> [Hierarchy](https://github.com/C-Zenno/constraint-spine/blob/public-spine-v0.6/docs/HIERARCHY.md)
+> [Hierarchy](https://github.com/C-Zenno/constraint-spine/blob/public-spine-v0.11/docs/HIERARCHY.md)
+
+## Spine Map
+
+Full structural map showing surface relationships (Constraint Physics → CC Lab → ZOA)
+and document dependencies. Navigation only.
+
+> [Spine Map](https://github.com/C-Zenno/constraint-spine/blob/public-spine-v0.11/docs/SPINE_MAP.md)
 
 ## Posture & Licenses
 
