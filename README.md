@@ -13,16 +13,6 @@ a prediction framework.
 **CRL-0** — public declarative surface only.
 No methods. No thresholds. No implementation guidance.
 
-## Surface structure
-
-![Surface structure](https://raw.githubusercontent.com/C-Zenno/constraint-spine/master/docs/images/surface-structure.png)
-
-| Surface | Role | License |
-|---------|------|---------|
-| Constraint Physics | Field front door — navigation only | CRL-0 |
-| CC Lab (Compressed Consciousness) | Upstream doctrine — scope, vocabulary, canon | CRL-0 |
-| ZOA (Zone of Avoidance) | Downstream application — use posture, licensing | OEL-1 |
-
 ## Where things live
 
 | Resource | Location |
@@ -31,7 +21,6 @@ No methods. No thresholds. No implementation guidance.
 | Papers (archived records) | [Zenodo — Constraint Geometry series](https://doi.org/10.5281/zenodo.18446867) |
 | Field website | [constraintphysics.org](https://constraintphysics.org) |
 | Program website | [compressedconsciousness.org](https://compressedconsciousness.org) |
-| Spine Map (full structural map) | [constraint-spine/docs/SPINE_MAP.md](https://github.com/C-Zenno/constraint-spine/blob/master/docs/SPINE_MAP.md) |
 
 ## What this repository is
 
