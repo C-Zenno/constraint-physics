@@ -24,8 +24,11 @@ No methods. No thresholds. No implementation guidance.
 
 ## What this repository is
 
-A front door. Navigation, orientation, community framing, and pointers
-to the canonical record in `constraint-spine`.
+The Constraint Physics docs / orientation registry: a navigation README pointing
+to where field artifacts live. No domain bound, no served website.
+
+**Not to be confused with [`constraintphysics-website`](https://github.com/C-Zenno/constraintphysics-website),**
+which is the apex front-door website at [constraintphysics.org](https://constraintphysics.org).
 
 Canonical standards and versioned doctrine live in `constraint-spine` (cite tags).
 This repo is navigation only. It does not duplicate canon. It does not contain
